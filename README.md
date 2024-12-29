@@ -1,5 +1,7 @@
 # Sales_Prediction using Python
-This project involves building a sales prediction model using Linear Regression. It includes data preprocessing, exploratory visualizations, and model evaluation to forecast sales based on advertising budgets, providing valuable insights for marketing optimization.
+
+The Sales Price Prediction project aims to predict sales prices based on input variables, leveraging statistical modeling techniques. 
+This project involves data preprocessing, exploratory data analysis, model training, and evaluation, providing valuable insights for business decision-making.
 
 Key Points:
 
